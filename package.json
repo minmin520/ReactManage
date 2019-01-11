@@ -1,0 +1,8 @@
+{
+  "name": "ReactManage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:minmin520/ReactManage.git",
+  "author": "minmin520 <1054840995@qq.com>",
+  "license": "MIT"
+}
